@@ -1,5 +1,7 @@
-### Hi there 👋
+### Heya, I'm Jason - aka drumman22
 
+[![Drumman22's GitHub stats](https://github-readme-stats-drumman22.vercel.app/api?username=drumman22)](https://github.com/drumman22/github-readme-stats)
+[![Top Langs](https://github-readme-stats-drumman22.vercel.app/api/top-langs/?username=drumman22&layout=compact)](https://github.com/drumman22/github-readme-stats)
 <!--
 **drumman22/drumman22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
