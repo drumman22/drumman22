@@ -1,12 +1,13 @@
 ### Heya, I'm Jason - aka drumman22
 ___
-
+<div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats-drumman22.vercel.app/api?username=drumman22&show_icons=true&hide_border=true&theme=material-palenight&count_private=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats-drumman22.vercel.app/api/top-langs/?username=drumman22&layout=compact&theme=material-palenight&hide_border=true&count_private=true" />
 </a>
+</div>
 
 <!--
 **drumman22/drumman22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
