@@ -1,4 +1,4 @@
-### Heya, I'm Jason - aka drumman22
+### Heya, I'm Jason
 ___
 <div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
